@@ -1,0 +1,15 @@
+Project_practice01,,,
+,Main_Folder,,
+,,main.py,
+,Images_Folder,,
+,,top.png,
+,,bottom.png,
+,,left.png,
+,,right.png,
+,Libraries_Folder,,
+,,Text_Capture_Folder,
+,,,txt_capture.py
+,,Text_Recog_Folder,
+,,,txt_recog.py
+,Documents_Folder,,
+,,READ.ME,
